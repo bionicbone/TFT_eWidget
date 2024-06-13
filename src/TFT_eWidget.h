@@ -33,4 +33,5 @@
 #include "widgets/meter/Meter.h"
 #include "widgets/graph/GraphWidget.h"
 #include "widgets/graph/TraceWidget.h"
+#include "widgets/clock/ClockWidget.h"
 #endif
