@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+## Bionicbone Arduino Environment
+# Visual Micro Folder
+__vm
+# Visual Studio Files
+*.sln
+*.vcxproj*
+
 # User-specific files
 *.rsuser
 *.suo
