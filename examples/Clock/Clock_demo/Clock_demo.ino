@@ -32,8 +32,8 @@
   NTP code by Paul Stoffregen
 */
 
-const char ssid[] = "Crystals99";       //  your network SSID (name)
-const char pass[] = "Morcap2000";       // your network password
+const char ssid[] = "***********";       //  your network SSID (name)
+const char pass[] = "***********";       // your network password
 
 
 #include <WiFi.h>
